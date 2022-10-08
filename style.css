@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+header{
+    background-color: goldenrod;
+}
+#ab{
+    padding-top: 250px;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-shadow: 2px 2px #FF0000;
+    font-size: 50px;
+}
+section{
+    margin-top: -49.7px;
+    padding-left: 70px;
+    background-image: url(https://thumbs.dreamstime.com/b/wooden-table-food-top-view-cafe-102532611.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: antiquewhite;
+    height: 600px;
+}
+#d1{
+    margin-top: -20.8px;
+    background-color: rgb(196, 229, 99);
+    width: 600px;
+    height: 100px;
+}
+#menu{
+    padding-left: 425px;
+    padding-top: 30px;
+}
+#im2{
+    margin-top: -101px;
+    margin-left: 20px;
+}
+#d4{
+    background-color: black;
+    width: 230px;
+    height: 50px;
+    margin-left: 370.2px;
+    margin-top: -20px;
+    border-bottom-left-radius: 40px;
+}
+#details{
+    width: 230px;
+    height: 290px;
+    margin-left: 370px;
+    margin-top: -314px;
+    border-bottom-left-radius: 30px;
+    background-color:white;
+}
+#img3{
+    width: 450px;
+    background-color: rgb(196, 229, 99);
+    margin-left: 1006px;
+    margin-top: -409.5px;
+}
+#par{
+    padding-left: 65px;
+    color: darkgoldenrod;
+}
+#d5{
+    background-color: rgb(196, 229, 99);
+    width:300px;
+    margin-left: 709px;
+    margin-top: -419.5px;
+    height: 403.5px;
+}
+#pp{
+    padding-top: 20px;
+    padding-right: 3px;
+    padding-left: 30px;
+    word-spacing: 8px;
+    line-height: 20px;
+}
+#a1{
+    padding-left: 1100px;
+}
+#a2{
+    padding-left: 60px;
+}
+#lmain{
+    margin-left: 20px;
+    margin-top: 35px;
+    width: 1440px;
+    height: 700px;
+    background-image: url(https://images.pexels.com/photos/349610/pexels-photo-349610.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#sp{
+    color: darkred;
+}
+#d6{
+    height: 400px;
+    width: 200px;
+    background-color: gray;
+    margin-left: 150px;
+    margin-top: 150px;
+    opacity: 50%;
+}
+#d7{
+    height: 400px;
+    width: 200px;
+    background-color: bisque;
+    margin-left: 600px;
+    opacity: 50%;
+    margin-top: -425px;
+}
+#d8{
+    height: 400px;
+    width: 200px;
+    background-color: darkolivegreen;
+    opacity: 50%;
+    margin-left: 1000px;
+    margin-top: -420px;
+}
+#pa{
+    padding-left: 20px;
+    padding-right: 10px;
+    /* word-spacing: 10px; */
+    line-height: 25px;
+    opacity: 100%;
+}
+#val{
+    /* font-size: 90px;  */
+    /* color: #FF0000; */
+    padding-top: 10px;
+    opacity: 100%;
+}
+#ss{
+    font-size: 20px;
+    color:darkslategrey ;
+}
